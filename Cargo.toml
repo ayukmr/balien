@@ -1,0 +1,9 @@
+[package]
+name = "rs-game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.8.0-rc0"
+glam = "0.21"
+pathfinding = "3.0"
